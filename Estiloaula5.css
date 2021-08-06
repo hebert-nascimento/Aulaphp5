@@ -1,0 +1,20 @@
+body{
+  /*background-color: ;*/
+}
+.well{
+	background-color: rgba(218, 112, 214.333);/*(138, 43 ,226,.5);*/
+	color: white;
+	opacity: 1;
+	text-align: center;
+	padding: 25px; 
+	border-radius: 3px;
+	
+}
+.bt{
+	border-radius: 3px;
+	border: none;
+	padding: 10px 20px;
+}
+.coluna{
+	margin: 10px;
+}
